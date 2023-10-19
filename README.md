@@ -1,0 +1,1 @@
+# bozoscript
